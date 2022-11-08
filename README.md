@@ -3,5 +3,5 @@
 # -Usage:
 
 ![image](https://user-images.githubusercontent.com/97493961/200457391-e56ab821-eb54-4fe5-95e1-37599a11fb49.png) User signups first
-After that user logs in ![image](https://user-images.githubusercontent.com/97493961/200457692-0484d90c-b137-444a-917b-40ed7382a289.png)
+![image](https://user-images.githubusercontent.com/97493961/200457692-0484d90c-b137-444a-917b-40ed7382a289.png)
 
